@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-10-28T13:29:04.402Z</updated>
+  <updated>2020-11-03T16:36:34.009Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>随笔（一）</title>
+    <link href="http://example.com/2020/11/04/%E9%9A%8F%E7%AC%94%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>http://example.com/2020/11/04/%E9%9A%8F%E7%AC%94%EF%BC%88%E4%B8%80%EF%BC%89/</id>
+    <published>2020-11-03T16:26:09.000Z</published>
+    <updated>2020-11-03T16:36:34.009Z</updated>
+    
+    <content type="html"><![CDATA[<p>刚才看完了杨学长的大学生活博客，感慨万千，遂记此篇。<br>大二第一学期已经接近尾声，专业课还没有开始复习，各种生活作息暂未调整好。刚来到计算机学院的第一个学期，认识了很多牛人，并从中学到了他们很多的学习经验。优秀的人总能在课内课外的学习之中保持好一个完美的平衡，他们多数也已经有了自己未来的发展方向，但是相比之下，自己的学习生活依旧存在非常多的不足。<br>总结一下这段时间自己的问题：<br>1.没有确定好自己的努力方向<br>python确实是一门非常简洁的语言，将其作为未来的方向也并非不可。在现在社会的大发展方向来看，从事人工智能方向或许是一个非常不错的选择，人工智能尚在理论阶段，涉及大量概率论，离散数学，数论等基础的数学问题。朝着这个方向发展，至少可以继续做我喜欢的数学，而不用像前端一般，重复无聊的美工工作。可是看完了各种大牛们的学历，这个行业实在是存在极强的学历歧视，对未来也是一个不小的挑战。<br>Java作为编程界的大哥，在就业上一直都是热门，<br>2.对保研和考研没有规划<br>因为我大一绩点并不是十分高，加之今年教务处保研政策大改，考研也许能成为比保研更好的出路，学校的填鸭式教学我根本不感兴趣，这种老旧的课程安排使得我们和非科班的学生平起平坐。然而全科目都需要在平时浪费非常多能够提升自己个人能力的时间（支持秦学长的话）。<br>考研或许是一个异常艰苦的路，但是我应该也做好了心里准备。数学一和专业课我平时绝对不能落下，至于英语和政治，在现在应该做到的确实也只剩下学习英语，并尽可能接触更多的英语文献（向lj同学学习，他的英语水平确实非常高），虽然是一条不平坦的路，但是我也应该拥有这种自控力。<br>3.无法静下心来专心学好某一门技术<br>这个学期的实训课跟着老师学习了一些opencv的皮毛，被老师表扬。但是我深知，作为机器学习的门而言，我还没有迈入半只腿。学习新知识并不能只从调库这个简单的行为来断，机器学习最难得的是其中的原理部分，可是就连PCA的基本公式我都不能理解。对于以后的发展依旧迷茫，无法深入某一个方向这是最大的毛病，我没有能够静下心来把某一个细节的领域做到很深，而是走马观花一般地，不知道自己的优势该往哪个方向发展。这段时间从哥们的推荐下买了一大批Java入门的书，以及计网和Linux入门，趁着考试周的间隙，应该耐着性子认真读完，最好可以记下笔记。这里要再次感谢朋友的帮助，大致方向先从机组计网、Linux，作为程序员的内功，这才是最重要的。<br>4.心态浮躁<br>每次打开同龄人之间的项目，无不在感慨自己的学识浅薄，但是自己连静下来学习他们的源代码的心态都没有。这最值得自责之处。每当我为新学的某一个内容而沾沾自喜之时，殊不知早有人已经赢在了起跑线。学习容不得半点浮躁，但是我却没有做到这点，值得自责与反思！</p><hr><p>从教务处的新通知，A楼自习室通宵开放，意识到自己并不应该提前回寝室，每次10点回来以后就白白浪费2小时，然后在凌晨陷入无限自责，第二天又是一个循环。尽可能待到12点，在不打扰别人的情况下，学好更深的技术。<br>看到我校的就业情况，再次后悔自己高考的结局。但东隅已逝，桑榆未晚，既然当下的现状无法改变，应该尽快调整好自己的心态，尽可能成为自己最想成为的人。</p><p>“所谓理想，就是基于热爱的事啊！”</p><p>文于2020年11月04日深夜</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;刚才看完了杨学长的大学生活博客，感慨万千，遂记此篇。&lt;br&gt;大二第一学期已经接近尾声，专业课还没有开始复习，各种生活作息暂未调整好。刚来到计算机学院的第一个学期，认识了很多牛人，并从中学到了他们很多的学习经验。优秀的人总能在课内课外的学习之中保持好一个完美的平衡，他们多数也</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>大一学习资料分享</title>
     <link href="http://example.com/2020/10/28/%E5%A4%A7%E4%B8%80%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/"/>
     <id>http://example.com/2020/10/28/%E5%A4%A7%E4%B8%80%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/</id>
     <published>2020-10-28T13:29:09.000Z</published>
-    <updated>2020-10-28T13:29:04.402Z</updated>
+    <updated>2020-11-03T15:56:16.569Z</updated>
     
     <content type="html"><![CDATA[<h1 id="SHU社区学院资料整理"><a href="#SHU社区学院资料整理" class="headerlink" title="SHU社区学院资料整理"></a>SHU社区学院资料整理</h1><p>本着开源的原则，加之疫情期间在家全程的线上教学，在本人爱好收集文件的习惯之下，留下了一系列在社区学院期间学习的资料。涵盖了微积分，大学物理，线性代数，工程制图，中国近现代史纲要，军事理论等学科。其中包括课本、历年试卷、教学课件、笔记等，现将所有内容分享如下。<br>全文所分享的所有资料，仅供上海大学大一学生学习与交流使用。文章版权归个人所有，未经作者授权禁止转载（或注明出处），不得将其中的资料用作任何商业用途。</p><h2 id="1、大一课本："><a href="#1、大一课本：" class="headerlink" title="1、大一课本："></a>1、大一课本：</h2><p>大一期间的绝大多数课本pdf版（还有部分英语课本等，尽力完善）</p><blockquote><p>链接：<a href="https://pan.baidu.com/s/1E_NHlq-ERxFlMb6ZOvZIfA">https://pan.baidu.com/s/1E_NHlq-ERxFlMb6ZOvZIfA</a></p></blockquote><blockquote><p>提取码：dykb </p></blockquote><h2 id="2、历年期末试卷："><a href="#2、历年期末试卷：" class="headerlink" title="2、历年期末试卷："></a>2、历年期末试卷：</h2><p>部分学科的历年期末测试试卷</p><blockquote><p>链接：<a href="https://pan.baidu.com/s/13eB0v-wAEBkCBeHpp7NfUg">https://pan.baidu.com/s/13eB0v-wAEBkCBeHpp7NfUg</a></p></blockquote><blockquote><p>提取码：qmsj </p></blockquote><h2 id="3、理工大类微积分试卷："><a href="#3、理工大类微积分试卷：" class="headerlink" title="3、理工大类微积分试卷："></a>3、理工大类微积分试卷：</h2><p>理工大类的微积分测试卷以及练习题等</p><blockquote><p>链接：<a href="https://pan.baidu.com/s/1Purl_p4G2LMvmpwHeBqImA">https://pan.baidu.com/s/1Purl_p4G2LMvmpwHeBqImA</a></p></blockquote><blockquote><p>提取码：gssj </p></blockquote><h2 id="4、线性代数资料："><a href="#4、线性代数资料：" class="headerlink" title="4、线性代数资料："></a>4、线性代数资料：</h2><p>史上最全的线性代数资料，包括大多数课件课本pdf，测试题，历年试卷，猴博士教程等等</p><blockquote><p>链接：<a href="https://pan.baidu.com/s/1P95PTcMIWNJUCoK4rQ9s1w">https://pan.baidu.com/s/1P95PTcMIWNJUCoK4rQ9s1w</a></p></blockquote><blockquote><p>提取码：xxds </p></blockquote><h2 id="5、-高等数学电子教案："><a href="#5、-高等数学电子教案：" class="headerlink" title="5、 高等数学电子教案："></a>5、 高等数学电子教案：</h2><p>我校高等数学电子课件，转载自微信公众号“上大数学在线”，读者可以自行选择关注</p><blockquote><p>链接：<a href="https://pan.baidu.com/s/1Bum6HY9qrrzp6gY0Zc6x9Q">https://pan.baidu.com/s/1Bum6HY9qrrzp6gY0Zc6x9Q</a></p></blockquote><blockquote><p>提取码：gdsx</p></blockquote><h2 id="6、大学物理电子教案："><a href="#6、大学物理电子教案：" class="headerlink" title="6、大学物理电子教案："></a>6、大学物理电子教案：</h2><p>大学物理的课件，由于线上上课质量不齐，整理的数目较少</p><blockquote><p>链接：<a href="https://pan.baidu.com/s/1oigVp21in-MPKVmmPHur4A">https://pan.baidu.com/s/1oigVp21in-MPKVmmPHur4A</a></p></blockquote><blockquote><p>提取码：dxwl </p></blockquote><h2 id="7、工程制图和计算机绘图基础："><a href="#7、工程制图和计算机绘图基础：" class="headerlink" title="7、工程制图和计算机绘图基础："></a>7、工程制图和计算机绘图基础：</h2><p>工程制图的习题集答案等</p><blockquote><p>链接：<a href="https://pan.baidu.com/s/1SlZDrEkvIYgibgKa8l8x3Q">https://pan.baidu.com/s/1SlZDrEkvIYgibgKa8l8x3Q</a></p></blockquote><blockquote><p>提取码：gczt </p></blockquote><h2 id="8、-军事理论资料："><a href="#8、-军事理论资料：" class="headerlink" title="8、 军事理论资料："></a>8、 军事理论资料：</h2><p>军事理论复习提纲，anki背诵词典等，以及线上考试的题库</p><blockquote><p>链接：<a href="https://pan.baidu.com/s/1B5ECxo8G-IFMUJO9Xhm2VA">https://pan.baidu.com/s/1B5ECxo8G-IFMUJO9Xhm2VA</a></p></blockquote><blockquote><p>提取码：jsll </p></blockquote><h2 id="9、中国近现代史纲要："><a href="#9、中国近现代史纲要：" class="headerlink" title="9、中国近现代史纲要："></a>9、中国近现代史纲要：</h2><p>中近纲的题库，教辅书等等</p><blockquote><p>链接：<a href="https://pan.baidu.com/s/1kXq7g2xi44dUmxUo1I44uw">https://pan.baidu.com/s/1kXq7g2xi44dUmxUo1I44uw</a> </p></blockquote><blockquote><p>提取码：jxds </p></blockquote><h2 id="10、未完待续："><a href="#10、未完待续：" class="headerlink" title="10、未完待续："></a>10、未完待续：</h2><p>整理不易，你的每一次浏览或者打赏都是对作者最大的支持。</p><p>希望大一的同学们能够合理利用学习资源，进入自己理想的专业！</p>]]></content>
     
@@ -61,11 +83,11 @@
     <category term="python" scheme="http://example.com/categories/%E8%84%9A%E6%9C%AC/web%E8%87%AA%E5%8A%A8%E5%8C%96/python/"/>
     
     
-    <category term="python" scheme="http://example.com/tags/python/"/>
-    
     <category term="Selenium" scheme="http://example.com/tags/Selenium/"/>
     
     <category term="web自动化" scheme="http://example.com/tags/web%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    
+    <category term="python" scheme="http://example.com/tags/python/"/>
     
   </entry>
   
@@ -91,9 +113,9 @@
     <category term="python" scheme="http://example.com/categories/%E7%AC%94%E8%AE%B0/python/"/>
     
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
-    
     <category term="Selenium" scheme="http://example.com/tags/Selenium/"/>
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
     <category term="自动化" scheme="http://example.com/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
     
@@ -118,11 +140,11 @@
     <category term="python" scheme="http://example.com/categories/%E7%AC%94%E8%AE%B0/python/"/>
     
     
+    <category term="python" scheme="http://example.com/tags/python/"/>
+    
     <category term="数据分析" scheme="http://example.com/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
     
     <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="python" scheme="http://example.com/tags/python/"/>
     
   </entry>
   
@@ -180,9 +202,9 @@
     <category term="爬虫" scheme="http://example.com/categories/%E7%AC%94%E8%AE%B0/python/%E7%88%AC%E8%99%AB/"/>
     
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
-    
     <category term="python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
     <category term="网页爬虫" scheme="http://example.com/tags/%E7%BD%91%E9%A1%B5%E7%88%AC%E8%99%AB/"/>
     
@@ -210,9 +232,9 @@
     <category term="python" scheme="http://example.com/categories/%E7%AC%94%E8%AE%B0/python/"/>
     
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
-    
     <category term="python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
     <category term="基础教程" scheme="http://example.com/tags/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/"/>
     
