@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-11-07T13:46:50.563Z</updated>
+  <updated>2020-11-07T13:48:49.331Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>一切接文件</title>
+    <title>一切皆文件</title>
     <link href="http://example.com/2020/11/07/%E4%B8%80%E5%88%87%E7%9A%86%E6%96%87%E4%BB%B6/"/>
     <id>http://example.com/2020/11/07/%E4%B8%80%E5%88%87%E7%9A%86%E6%96%87%E4%BB%B6/</id>
     <published>2020-11-07T13:46:09.000Z</published>
-    <updated>2020-11-07T13:46:50.563Z</updated>
+    <updated>2020-11-07T13:48:49.331Z</updated>
     
     <content type="html"><![CDATA[<h1 id="一切皆文件"><a href="#一切皆文件" class="headerlink" title="一切皆文件"></a>一切皆文件</h1><h2 id="1-从／开始"><a href="#1-从／开始" class="headerlink" title="1. 从／开始"></a>1. 从／开始</h2><p>   Linux归根结底就只有一个根目录，一个独立且唯一的文件结构。<br>   在Linux系统中，目录，字符设备，块设备，套接字，打印机都抽象成了文件，每次配置文件都是在修改配置文件的参数。<br>   在默认的Linux架构下，都有层次化标准FHS，来引导分区，格式化以及其余操作。<br>   Linux默认可分为3个分区,分别是boot分区、swap分区和根分区。</p><h2 id="1-分区管理"><a href="#1-分区管理" class="headerlink" title="1. 分区管理"></a>1. 分区管理</h2><p>在 Linux 中规定，每一个硬盘设备最多能有 4个主分区（其中包含扩展分区）构成，任何一个扩展分区都要占用一个主分区号码，也就是在一个硬盘中，主分区和扩展分区一共最多是 4 个。</p><hr><p>/boot分区，它包含了操作系统的内核和在启动系统过程中所要用到的文件</p><p>/usr分区，是red hat linux系统存放软件的地方，如有可能应将最大空间分给它。</p><p>/home分区，是用户的home目录所在地，分区的大小取决于用户数目。如果是多用户共同使用一台电脑的话，这个分区是完全有必要的，况且根用户也可以很好地控制普通用户使用计算机，如对用户或者用户组实行硬盘限量使用，限制普通用户访问哪些文件等。</p><p>/var/log分区，是系统日志记录分区，如果设立了这一单独的分区，这样即使系统的日志文件出现了问题，它们也不会影响到操作系统的主分区。</p><p>/tmp分区，用来存放临时文件。这对于多用户系统或者网络服务器来说是有必要的。 </p><p>/bin分区，存放标准系统实用程序。</p><p>/dev分区，存放设备文件。</p><p>/opt分区，存放可选的安装的软件。</p><p>/sbin分区，存放标准系统管理文件。</p><h2 id="3-WSL下的文件类型分区"><a href="#3-WSL下的文件类型分区" class="headerlink" title="3. WSL下的文件类型分区"></a>3. WSL下的文件类型分区</h2><p>   在WSL下，windows的磁盘被挂载到了/mnt下，可以直接访问。<br>   即原先的cde盘被默认挂载在某个子文件夹下</p><blockquote><p>移动到别的分区</p></blockquote><p>#启用WSL<br>Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux</p><p>#创建目录<br>New-Item D:\WSL -ItemType Directory<br>Set-Location D:\WSL</p><p>#下载安装程序<br>Invoke-WebRequest -Uri <a href="https://aka.ms/wsl-ubuntu-1804">https://aka.ms/wsl-ubuntu-1804</a> -OutFile Ubuntu.appx -UseBasicParsing<br>Rename-Item .\Ubuntu.appx Ubuntu.zip<br>Expand-Archive .\Ubuntu.zip -Verbose</p><p>#运行程序<br>cd Ubuntu</p><blockquote><p>再次重启</p></blockquote><p>#cmd (管理员)<br>#停止<br>net stop LxssManager</p><p>#启动<br>net start LxssManager</p><p>#批处理 (管理员)<br>#停止<br>start cmd /k net stop LxssManager</p><p>#启动<br>start cmd /k net start LxssManager</p>]]></content>
     
