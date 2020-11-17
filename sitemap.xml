@@ -123,20 +123,6 @@
 
   
   <url>
-    <loc>http://example.com/tags/linux/</loc>
-    <lastmod>2020-11-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/vim/</loc>
-    <lastmod>2020-11-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/Selenium/</loc>
     <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
@@ -158,14 +144,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/Linux/</loc>
+    <loc>http://example.com/tags/linux/</loc>
     <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/WSL/</loc>
+    <loc>http://example.com/tags/vim/</loc>
     <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -180,6 +166,20 @@
   
   <url>
     <loc>http://example.com/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2020-11-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Linux/</loc>
+    <lastmod>2020-11-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/WSL/</loc>
     <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -244,13 +244,6 @@
 
   
   <url>
-    <loc>http://example.com/categories/linux/</loc>
-    <lastmod>2020-11-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/categories/%E8%84%9A%E6%9C%AC/</loc>
     <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
@@ -258,7 +251,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/Linux/</loc>
+    <loc>http://example.com/categories/linux/</loc>
     <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -272,7 +265,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/linux/vim/</loc>
+    <loc>http://example.com/categories/Linux/</loc>
     <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -280,6 +273,13 @@
   
   <url>
     <loc>http://example.com/categories/%E8%84%9A%E6%9C%AC/web%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
+    <lastmod>2020-11-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/linux/vim/</loc>
     <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -300,14 +300,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/Linux/WSL/</loc>
+    <loc>http://example.com/categories/%E7%AC%94%E8%AE%B0/python/</loc>
     <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E7%AC%94%E8%AE%B0/python/</loc>
+    <loc>http://example.com/categories/Linux/WSL/</loc>
     <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
