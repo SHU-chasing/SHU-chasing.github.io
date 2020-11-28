@@ -42,7 +42,7 @@
     }
 }
 #footer {
-    background: linear-gradient(-45deg, #ee7752, #ce3e75, #23a6d5, #23d5ab);
+    background: linear-gradient(-45deg, #2709cc, #4a0bf7, #1755ff, #0400ff);
     background-size: 400% 400%;
     -webkit-animation: Gradient 10s ease infinite;
     -moz-animation: Gradient 10s ease infinite;
