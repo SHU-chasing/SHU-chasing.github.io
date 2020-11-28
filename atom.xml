@@ -120,11 +120,11 @@
     
     <category term="Linux" scheme="http://example.com/tags/Linux/"/>
     
+    <category term="WSL" scheme="http://example.com/tags/WSL/"/>
+    
     <category term="Ubuntu" scheme="http://example.com/tags/Ubuntu/"/>
     
     <category term="Windows" scheme="http://example.com/tags/Windows/"/>
-    
-    <category term="WSL" scheme="http://example.com/tags/WSL/"/>
     
   </entry>
   
@@ -331,11 +331,11 @@
     
     <category term="Linux" scheme="http://example.com/tags/Linux/"/>
     
+    <category term="WSL" scheme="http://example.com/tags/WSL/"/>
+    
     <category term="Ubuntu" scheme="http://example.com/tags/Ubuntu/"/>
     
     <category term="Windows" scheme="http://example.com/tags/Windows/"/>
-    
-    <category term="WSL" scheme="http://example.com/tags/WSL/"/>
     
   </entry>
   
