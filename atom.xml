@@ -18,8 +18,8 @@
   
   <entry>
     <title>计算机学院分流建议</title>
-    <link href="http://example.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%E5%88%86%E6%B5%81%E5%BB%BA%E8%AE%AE/"/>
-    <id>http://example.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%E5%88%86%E6%B5%81%E5%BB%BA%E8%AE%AE/</id>
+    <link href="http://example.com/AboutCES/"/>
+    <id>http://example.com/AboutCES/</id>
     <published>2021-04-02T14:26:09.000Z</published>
     <updated>2021-04-02T15:40:42.855Z</updated>
     
@@ -202,11 +202,11 @@
     
     <category term="Linux" scheme="http://example.com/tags/Linux/"/>
     
+    <category term="WSL" scheme="http://example.com/tags/WSL/"/>
+    
     <category term="Ubuntu" scheme="http://example.com/tags/Ubuntu/"/>
     
     <category term="Windows" scheme="http://example.com/tags/Windows/"/>
-    
-    <category term="WSL" scheme="http://example.com/tags/WSL/"/>
     
   </entry>
   
@@ -426,11 +426,11 @@
     
     <category term="Linux" scheme="http://example.com/tags/Linux/"/>
     
+    <category term="WSL" scheme="http://example.com/tags/WSL/"/>
+    
     <category term="Ubuntu" scheme="http://example.com/tags/Ubuntu/"/>
     
     <category term="Windows" scheme="http://example.com/tags/Windows/"/>
-    
-    <category term="WSL" scheme="http://example.com/tags/WSL/"/>
     
   </entry>
   
